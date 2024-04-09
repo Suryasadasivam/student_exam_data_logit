@@ -14,7 +14,8 @@ The "Student Exam Performance" dataset contains information about student exam p
   
 **Repository Structure**
 - student_exam_data.csv: Contains the raw data file used in the analysis.
-- Student_Exam_Performance_Prediction.ipynb: Jupyter notebook containing the code for data exploration, preprocessing, analysis, and prediction.
+- Jupyter notebook containing the code for data exploration, preprocessing, analysis, and prediction.
+  
 **Dependencies**
 - Python
 - Pandas
